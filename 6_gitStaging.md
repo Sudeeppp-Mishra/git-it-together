@@ -29,7 +29,6 @@ To add a file to the staging area, use `git add <file>`:
 Now `index.html` is staged. You can check what is staged with `git status`:
 
 > EG:
-> <br>
 >
 > ```sh
 > git status
